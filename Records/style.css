@@ -1,0 +1,41 @@
+*{
+	text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6{
+	text-align: center;
+}
+
+.col{
+	width: 49%;
+	border: 1px solid gray;
+	display: inline-block;
+}
+
+table{
+	text-align: center;
+	width: 100%;
+	border-top: 1px solid black;
+}
+
+tr{
+	border: 1px solid black;
+}
+
+#statistics{
+	
+}
+
+.warning{
+	color: red;
+	font-size: 120%;
+}
+
+.ok{
+	color: green;
+	font-size: 120%;
+}
+
+.done{
+	color: green;
+}
